@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Main Menu"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_option">
+        <menu>
+            <item
+                android:id="@+id/nav_profile"
+                android:title="@string/user_profil"
+                android:orderInCategory="100"
+                android:icon="@drawable/pngprofil"/>
+            <item
+                android:id="@+id/nav_bahasa"
+                android:title="@string/bahasa"
+                android:orderInCategory="100"
+                android:icon="@drawable/pngworld" />
+        </menu>
+    </item>
+
+</menu>

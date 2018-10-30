@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Santri Apps</string>
+
+    <string name="user_profil">Profil</string>
+    <string name="bahasa">Bahasa</string>
+
+    <string name="detail_profil_santri">Detail Profil Santri</string>
+    <string name="detail_profil_mahasiswa">Profil Mahasiswa</string>
+</resources>
